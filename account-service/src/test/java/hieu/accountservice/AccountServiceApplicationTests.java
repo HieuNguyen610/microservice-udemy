@@ -1,10 +1,10 @@
-package hieu.microserviceudemy;
+package hieu.accountservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MicroserviceUdemyApplicationTests {
+class AccountServiceApplicationTests {
 
     @Test
     void contextLoads() {
